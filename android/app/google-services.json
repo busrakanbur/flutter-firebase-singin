@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "298395470730",
+    "project_id": "fabb-mobil",
+    "storage_bucket": "fabb-mobil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298395470730:android:373c4be34fee1a4e2c1673",
+        "android_client_info": {
+          "package_name": "com.example.project_with_tabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298395470730-7lth5fascegdeg00c9fp3o74jmqtdvom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project_with_tabs",
+            "certificate_hash": "d4da01c0b152ec0538ebc591b80e3e0b0a3cadf7"
+          }
+        },
+        {
+          "client_id": "298395470730-frq0d69tkuoj23gpp99vo94991m9bntn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQXjyd7sPeIcYfAwvtbNuTaX6JkXH7BTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298395470730-frq0d69tkuoj23gpp99vo94991m9bntn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
